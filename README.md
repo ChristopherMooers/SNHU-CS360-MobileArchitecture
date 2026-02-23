@@ -17,7 +17,7 @@ Pharmacy-oriented inventory management application tracking fast-moving inhalati
 - SQLite
 - Android SDK
 
-## Reflection
+## CS 360 – Module Eight Journal Reflection
 Application Requirements and User Needs
 
 The primary goal of this application was to design and develop a functional mobile inventory management system that supports secure authentication, database integration, and real-time inventory tracking. The application was designed to address the need for an efficient way to monitor fast-moving pharmacy inventory, reduce manual errors, and provide immediate alerts when stock levels reach zero. By integrating secure login and structured data storage, the app supports both usability and data integrity.
